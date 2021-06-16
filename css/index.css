@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+#dashboard-kiri {
+    position: absolute;
+    background-color: #2eb34b;
+    height: 10%;
+    padding: 20px;
+}
+
+.brand .lAdmin:hover {
+    color:  rgba(107, 107, 184, 0.3);
+}
+
+.brand .hBrand {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.brand .hBrand:hover {
+    color:  rgba(217, 217, 230, 0.6);
+    text-shadow: 2px 2px 8px 1px green;
+}
