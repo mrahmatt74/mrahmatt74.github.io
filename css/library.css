@@ -1,0 +1,80 @@
+.table-bordered {
+    border: 1px solid black;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.my-1 {
+    margin: 5px 0;
+}
+
+.my-2 {
+    margin: 10px 0;
+}
+
+.mx-1 {
+    margin: 0 5px;
+}
+
+.mx-2 {
+    margin: 0 10px;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+.fw-bold {
+    font-weight: bold;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.btnSimpan {
+    float: right;
+    height: 50px;
+    background-color: yellow;
+    cursor: pointer;
+}
+.d-inline {
+    display: inline;
+}
+
+.border-left {
+    border-left: 5px solid black;
+}
+
+.border-right {
+    border-right: 2px solid black;
+}
+
+hr {
+    width: 4px;
+    color: black;
+    height: 200px;
+}

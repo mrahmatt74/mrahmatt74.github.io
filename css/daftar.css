@@ -1,0 +1,16 @@
+
+* {
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-image: url(../img/bg-masthead.jpg);
+    background-size: cover;
+    
+} 
+
+.daftar {
+    margin-top: 100px;
+    border-radius: 20px;
+}

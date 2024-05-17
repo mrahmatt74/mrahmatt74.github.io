@@ -1,0 +1,23 @@
+body {
+    background-image: url(../../starter/10/img/bg-callout.jpg);
+}
+
+.login {
+    background-color: antiquewhite;
+    box-shadow: 2px 2px 10px 2px grey;
+    border-radius: 20px;
+}
+
+.hr-hLogin {
+    color: rgb(139, 136, 94);
+    height: 0px;
+    border: 3px solid rgb(139, 136, 94);
+}
+
+.by-sosmed .google .p-google {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 2;
+    color: black;
+}
